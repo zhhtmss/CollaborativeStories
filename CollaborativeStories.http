@@ -1,0 +1,6 @@
+@CollaborativeStories_HostAddress = http://localhost:5096
+
+GET {{CollaborativeStories_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
